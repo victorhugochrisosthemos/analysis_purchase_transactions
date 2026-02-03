@@ -1,6 +1,6 @@
 # Link para o site - >
 
-## Como o .csv precisa estar?
+### Como o .csv precisa estar?
 
 - O arquivo precisa ter essas 3 colunas exatamente com esses nomes: CustomerID, Products, Timestamp
 <br>

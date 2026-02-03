@@ -1,6 +1,6 @@
 # Link para o site - >
 
-### Como o .csv precisa estar?
+## Como o .csv precisa estar?
 
 - O arquivo precisa ter essas 3 colunas exatamente com esses nomes: CustomerID, Products, Timestamp
 <br>
@@ -118,4 +118,5 @@ CustomerID,Products,Timestamp
 101,"Milk, Cereal, Cookie",2024-01-05 09:10:00
 101,"Bread, Egg",2024-01-10 18:20:00
 205,"Milk, Banana",2024-02-01 14:00:00
-
+<br><br>
+- Tem um .csv de teste nesse diretório que dá para usar de exemplo
